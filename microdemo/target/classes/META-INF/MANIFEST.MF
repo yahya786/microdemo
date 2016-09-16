@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: microdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LEJ4376
+Implementation-Vendor-Id: com.humana.eiia
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/microdemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
